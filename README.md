@@ -132,6 +132,7 @@ You can find the inputs to the particle filter in the `data` directory.
 ## Success Criteria
 If your particle filter passes the current grading code in the simulator (you can make sure you have the current version at any time by doing a `git pull`), then you should pass!
 
+![alt text](Success.JPG)
 The things the grading code is looking for are:
 
 
